@@ -23,16 +23,16 @@ The dataset is divided into Train and Test data with 67:33 split ratio where 67%
 
 Building the Models:
 
-5 models are build using the training data and tested on the test data.The following models are used:-
-I.    Random Forest
-II.   Support Vector Machine
-III.  Logistic Regression
-IV.   K Nearest Neighbours
-V.    Naive Bayes
+5 models are build using the training data and tested on the test data.The following models are used :-
+1.  Random Forest
+2.  Support Vector Machine
+3.  Logistic Regression
+4.  K Nearest Neighbours
+5.  Naive Bayes
 
 Result:
 
-On Running the following we get the following accuracies:-
+On Running the following we get the following accuracies :-
 I.    Random Forest: 0.94
 II.   Support Vector Machine: 0.96
 III.  Logistic Regression: 0.84
