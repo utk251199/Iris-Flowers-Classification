@@ -7,9 +7,9 @@ Attribute Information:
    3. petal length in cm
    4. petal width in cm
    5. class: 
-      I.    Iris Setosa
-      II.   Iris Versicolour
-      III.  Iris Virginica
+      a.  Iris Setosa
+      b.  Iris Versicolour
+      c.  Iris Virginica
       
 Basic Data Analysis :
 1.  The dataset provided has 150 rows
@@ -33,11 +33,11 @@ Building the Models:
 Result:
 
 On Running the following we get the following accuracies :-
-I.    Random Forest: 0.94
-II.   Support Vector Machine: 0.96
-III.  Logistic Regression: 0.84
-IV.   K Nearest Neighbours: 0.96
-V.    Naive Bayes: 0.96
+1.  Random Forest: 0.94
+2.  Support Vector Machine: 0.96
+3.  Logistic Regression: 0.84
+4.  K Nearest Neighbours: 0.96
+5.  Naive Bayes: 0.96
 
 So , we can observe that the models Support Vector Machine,K Nearest Neighbours,Naive Bayes have the same accuracy 0.96 (i.e 96%).
 
