@@ -16,5 +16,9 @@ Basic Data Analysis :
 2.  Dependent Variables : Sepal length.Sepal Width,Petal length,Petal Width
 3.  Independent/Target Variable : Class
 4.  Missing values : None      
+
+The dataset is divided into Train and Test data with 67:33 split ratio where 67% data is training data where as 33% data is test data.
+
+
       
    
