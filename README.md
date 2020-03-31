@@ -33,7 +33,7 @@ Building the Models:
 Result:
 
 On Running the following we get the following accuracies :-
-1.  Random Forest: 0.94
+1.  Random Forest: 0.92
 2.  Support Vector Machine: 0.96
 3.  Logistic Regression: 0.84
 4.  K Nearest Neighbours: 0.96
